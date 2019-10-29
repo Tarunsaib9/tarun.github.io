@@ -1,3 +1,3 @@
-# tarun.github.io
-# developer-portfolio
-Portfolio for Developer ( Build on Reactjs and GraphQl )⚡️
+# Tarun Sai – DeveloperFolio
+
+This is my portfolio built using the developerFolio React template.
