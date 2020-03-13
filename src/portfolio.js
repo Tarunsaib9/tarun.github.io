@@ -3,7 +3,8 @@
 // Your Summary And Greeting Section
 
 const greeting = {
-  title: "Hi all 👋 I'm Saad",
+  /* Your Summary And Greeting Section */
+  title: "Hi all 👋 I'm Tarun",
   subTitle:
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
@@ -13,18 +14,17 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/Tarunsaib9",
+  linkedin: "www.linkedin.com/in/tarunsai94",
+  gmail: "tarunsaib9@gmail.com",
+
 };
 
 // Your Skills Section
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  subTitle: "DEVOPS DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
     "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
     "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
