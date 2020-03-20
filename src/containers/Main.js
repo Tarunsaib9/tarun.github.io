@@ -23,7 +23,7 @@ export default class Main extends Component {
         <StartupProject />
         <Achievement />
         <Blogs />
-	<Twitter />
+	      <Twitter />
         <Contact />
         <Footer />
       </div>

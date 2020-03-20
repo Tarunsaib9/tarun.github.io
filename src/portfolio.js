@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+﻿/* Change this file to get your personal Porfolio */
 
 // Your Summary And Greeting Section
 
@@ -231,4 +231,11 @@ const contactInfo = {
   email_address: "saadpasta70@gmail.com"
 };
 
-export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo, techStack };
+//Twitter sections
+
+const twitterDetails = {
+
+  userName : "YOUR USERNAME"//Provide your twitter username without @
+  
+};
+export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
