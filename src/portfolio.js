@@ -17,10 +17,11 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/Tarunsaib9",
-  linkedin: "www.linkedin.com/in/tarunsai94",
-  gmail: "tarunsaib9@gmail.com",
-
+  github: "https://github.com/saadpasta",
+  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  gmail: "saadpasta70@gmail.com",
+  gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/saad.pasta7",
 };
 
 // Your Skills Section
